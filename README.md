@@ -81,7 +81,8 @@ Here I am assuming that you have a model named "User" and that tells whether a u
 				/* Allow this forum to the public, so that anyone can read this forum. */
 				"publicRead" => true,
 				
-				/* Allow write comments to the public. so that anyone can comment on any topic. */
+				/* Allow write comments to the public. 
+				          so that anyone can comment on any topic. */
 				"ananymousComments" => true,
 				
 				/* Do you want all comments to be auto approved ?  
